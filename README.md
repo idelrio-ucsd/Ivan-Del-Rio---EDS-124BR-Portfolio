@@ -15,7 +15,9 @@ It showcases my journey as both a **learner** and **future educator** in computi
 **Title:** How Computers Work – Intro to Binary  
 **Description:** In this short video, I explain how computers represent data using 0s and 1s. It’s designed for beginners and demonstrates how to make computing concepts engaging and easy to grasp.
 
-▶️ **[Watch on YouTube](https://www.youtube.com/watch?v=ENemu2M5GCs)**
+[![Watch the video](https://img.youtube.com/vi/ENemu2M5GCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENemu2M5GCs)
+
+*(Click the thumbnail to watch on YouTube.)*
 
 ---
 
