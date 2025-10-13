@@ -9,18 +9,13 @@ This site highlights what I’ve learned about **teaching computer science** and
 This portfolio is part of my work for the *Teaching Programming* course.  
 It showcases my journey as both a **learner** and **future educator** in computing — reflecting how I approach problem-solving, creativity, and communication when teaching others about technology.
 
-## 🎥 Featured Video  
-[![Watch the video](https://img.youtube.com/vi/ENemu2M5GCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENemu2M5GCs)  
+## 🎥 Featured Videos  
 
-*(Click the thumbnail to watch on YouTube.)*  
+| Video 1 | Video 2 |
+|:--:|:--:|
+| [![Watch the video](https://img.youtube.com/vi/ENemu2M5GCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENemu2M5GCs) | [![Watch the video](https://img.youtube.com/vi/uI00-Hs9w8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uI00-Hs9w8Y) |
+| *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
 
----  
-
-[![Watch the video](https://img.youtube.com/vi/uI00-Hs9w8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uI00-Hs9w8Y)  
-
-*(Click the thumbnail to watch on YouTube.)*  
-
----
 
 
 ## 🧠 Topics & Learning Highlights
