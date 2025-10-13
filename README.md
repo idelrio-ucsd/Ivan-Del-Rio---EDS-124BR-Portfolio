@@ -13,10 +13,20 @@ It showcases my journey as both a **learner** and **future educator** in computi
 
 ## 🎥 Featured Videos  
 
-| Video 1 | Video 2 | Video 3 |
-|:--:|:--:|:--:|
-| [![Watch the video](https://img.youtube.com/vi/ENemu2M5GCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENemu2M5GCs) | [![Watch the video](https://img.youtube.com/vi/uI00-Hs9w8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uI00-Hs9w8Y) | [![Watch the video](https://img.youtube.com/vi/OLkxk-OW4O4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLkxk-OW4O4) |
-| *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+## 🎥 Featured Videos  
+
+| Video 1 | Video 2 |
+|:--:|:--:|
+| [![Watch the video](https://img.youtube.com/vi/ENemu2M5GCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENemu2M5GCs) | [![Watch the video](https://img.youtube.com/vi/uI00-Hs9w8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uI00-Hs9w8Y) |
+| *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+
+---
+
+| Video 3 |
+|:--:|
+| [![Watch the video](https://img.youtube.com/vi/OLkxk-OW4O4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLkxk-OW4O4) |
+| *(Click the thumbnail to watch on YouTube.)* |
+
 
 
 
