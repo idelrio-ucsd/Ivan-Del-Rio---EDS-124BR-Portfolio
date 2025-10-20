@@ -22,12 +22,10 @@ It showcases my journey as both a **learner** and **future educator** in computi
 
 ---
 
-| Video 3 |
-|:--:|
-| [![Watch the video](https://img.youtube.com/vi/OLkxk-OW4O4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLkxk-OW4O4) |
-| *(Click the thumbnail to watch on YouTube.)* |
-
-
+| Video 3 | Video 4 |
+|:--:|:--:|
+| [![Watch the video](https://img.youtube.com/vi/OLkxk-OW4O4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLkxk-OW4O4){:target="_blank"} | [![Watch the video](https://img.youtube.com/vi/9bxDaAqHH78/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bxDaAqHH78){:target="_blank"} |
+| *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
 
 
 
