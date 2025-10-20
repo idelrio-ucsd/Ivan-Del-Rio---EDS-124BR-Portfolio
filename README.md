@@ -9,9 +9,6 @@ This site highlights what I’ve learned about **teaching computer science** and
 This portfolio is part of my work for the *Teaching Programming* course.  
 It showcases my journey as both a **learner** and **future educator** in computing — reflecting how I approach problem-solving, creativity, and communication when teaching others about technology.
 
-## 🎥 Featured Videos  
-
-## 🎥 Featured Videos  
 
 ## 🎥 Featured Videos  
 
