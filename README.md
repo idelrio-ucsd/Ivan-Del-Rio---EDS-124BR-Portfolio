@@ -24,6 +24,13 @@ It showcases my journey as both a **learner** and **future educator** in computi
 | [![Watch the video](https://img.youtube.com/vi/OLkxk-OW4O4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLkxk-OW4O4) | [![Watch the video](https://img.youtube.com/vi/9bxDaAqHH78/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bxDaAqHH78) |
 | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
 
+---
+
+| Video 5 |
+|:--:|
+| [![Watch the video](https://img.youtube.com/vi/AptyQ_q75uU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AptyQ_q75uU) |
+| *(Click the thumbnail to watch on YouTube.)* |
+
 
 
 ## 🧠 Topics & Learning Highlights
