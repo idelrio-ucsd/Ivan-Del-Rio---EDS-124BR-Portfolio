@@ -26,11 +26,15 @@ It showcases my journey as both a **learner** and **future educator** in computi
 
 ---
 
-| Video 5 | Video 6 |
+| Video 5 | Video 6 | |:--:|:--:| | [![Watch the video](https://img.youtube.com/vi/AptyQ_q75uU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AptyQ_q75uU) | [![Watch the video](https://img.youtube.com/vi/0C14Us7rSEw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0C14Us7rSEw) | | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+
+---
+
+| Video 7 | Video 8 |
 |:--:|:--:|
-| [![Watch the video](https://img.youtube.com/vi/AptyQ_q75uU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AptyQ_q75uU) | [![Watch the video](https://img.youtube.com/vi/0C14Us7rSEw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0C14Us7rSEw) |
+| [![Watch the video](https://img.youtube.com/vi/THeMTDxsfUU/maxresdefault.jpg)](https://youtu.be/THeMTDxsfUU) | *(Add link for Video 8 here)* |
 | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
-| [![Watch the video](https://img.youtube.com/vi/THeMTDxsfUU/maxresdefault.jpg)](https://youtu.be/THeMTDxsfUU) | *(Click the thumbnail to watch on YouTube.)* |
+
 
 
 ## 🧠 Topics & Learning Highlights
