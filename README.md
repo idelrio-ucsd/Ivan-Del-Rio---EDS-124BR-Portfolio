@@ -45,6 +45,13 @@ It showcases my journey as both a **learner** and **future educator** in computi
 | [![Watch the video](https://img.youtube.com/vi/J45na5d-R5Y/maxresdefault.jpg)](https://youtu.be/J45na5d-R5Y) | [![Watch the video](https://img.youtube.com/vi/tbHD4ZxybUs/maxresdefault.jpg)](https://youtu.be/tbHD4ZxybUs) |
 | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
 
+---
+
+| Video 11 | Video 12 |
+|:--:|:--:|
+| [![Watch the video](https://img.youtube.com/vi/0oX6K55PNI0/maxresdefault.jpg)](https://youtu.be/0oX6K55PNI0) | *(Add link for Video 12 here)* |
+| *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+
 
 ## 🧠 Topics & Learning Highlights
 Here’s what you’ll find as I continue building this portfolio:
