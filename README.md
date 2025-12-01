@@ -42,8 +42,9 @@ It showcases my journey as both a **learner** and **future educator** in computi
 
 | Video 9 | Video 10 |
 |:--:|:--:|
-| [![Watch the video](https://img.youtube.com/vi/J45na5d-R5Y/maxresdefault.jpg)](https://youtu.be/J45na5d-R5Y) | [![Watch the video](https://img.youtube.com/vi/tbHD4ZxybUs/maxresdefault.jpg)](https://youtu.be/tbHD4ZxybUs) |
+| [![Watch the video](https://img.youtube.com/vi/J45na5d-R5Y/maxresdefault.jpg)](https://youtu.be/J45na5d-R5Y) | [![Watch the video](https://img.youtube.com/vi/TwsS1CmsvyI/maxresdefault.jpg)](https://youtu.be/TwsS1CmsvyI) |
 | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+
 
 ---
 
