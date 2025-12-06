@@ -50,8 +50,9 @@ It showcases my journey as both a **learner** and **future educator** in computi
 
 | Video 11 | Video 12 |
 |:--:|:--:|
-| [![Watch the video](https://img.youtube.com/vi/0oX6K55PNI0/maxresdefault.jpg)](https://youtu.be/0oX6K55PNI0) | *(Add link for Video 12 here)* |
+| [![Watch the video](https://img.youtube.com/vi/0oX6K55PNI0/maxresdefault.jpg)](https://youtu.be/0oX6K55PNI0) | [![Watch the video](https://img.youtube.com/vi/NjYv2u40aQU/maxresdefault.jpg)](https://youtu.be/NjYv2u40aQU) |
 | *(Click the thumbnail to watch on YouTube.)* | *(Click the thumbnail to watch on YouTube.)* |
+
 
 
 ## 🧠 Topics & Learning Highlights
